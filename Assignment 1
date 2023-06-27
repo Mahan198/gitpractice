@@ -46,7 +46,7 @@ STEP 2 Create a new branch for a new feature you want to add to the application
 
 STEP 3 Merge back the created branch with the master branch 
 
-First switch to the branch you want merge into that is master.  
+First switch to the branch you want merge into that is master. merge the newfeature brach to master. 
 
 # git checkout master 
 
