@@ -17,11 +17,11 @@ Action Items
 • Push the local repository to company’s remote repository
 
 STEP 1 Create a local git repository and move the entire code base to it
-# cd Downloads/			to move to Downloads folder 
+# cd Downloads/			          to move to Downloads folder 
 
 # unzip sample-project.zip 		to unzip sample project zip file in gitbash
 
-# cd sample-project 	to change folder from Downloads to sample-project 
+# cd sample-project 	        to change folder from Downloads to sample-project 
 
 # ls -l			to list files and sub directories 
 
