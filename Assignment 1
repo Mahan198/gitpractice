@@ -60,3 +60,18 @@ STEP 4 Create a remote repository
 
 
 STEP 5 Push the local repository to company’s remote repository
+First, we need to add remote repo to local repo  
+
+# git remote add origin https://github.com/Mahan198/gitpractice.git 
+
+# git remote –v 	to list the connected remote repos 
+
+# git push origin master 		to push the files to remote repo 
+
+It will through an error so need to authenticate so generate token in the remote repo  
+
+Go to extreme right of remote repo page click on the avatar ---> settings ---> Developer settings ---> personal token access ---> Token (classic) 
+---> Generate new token ---> Generate new token (classic) ---> give some name ---> on Select scope mark the repo ---> Generate token ---> 
+copy the token and keep it. Don’t forget copy and save the token somewhere. 
+
+Then use the push command and add the token. You will be authenticated. Your codes will be moved, go to remote repo and reload check it.   
