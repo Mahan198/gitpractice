@@ -2,7 +2,12 @@ ASSIGNMENT 1
 
 Problem Statement Three Developers are working in Aperture Technology co. Their company wants a better Source Code Management System because the earlier tool had the tendency to save redundant code. Multiple Developers working simultaneously on the same block of code also caused problems. You are Mike, and your manager has given you the task of moving the company’s code base to git and Github.
 
-Action Items • Create a local git repository and move the entire code base to it • Create a new branch for a new feature you want to add to the application • Merge back the created branch with the master branch • Create a remote repository • Push the local repository to company’s remote repository
+Action Items 
+• Create a local git repository and move the entire code base to it 
+• Create a new branch for a new feature you want to add to the application 
+• Merge back the created branch with the master branch 
+• Create a remote repository 
+• Push the local repository to company’s remote repository
 
 
 STEP 1 Create a local git repository and move the entire code base to it
@@ -59,6 +64,7 @@ First switch to the branch you want merge into that is master. merge the newfeat
 STEP 4 Create a remote repository 
 
 
+
 STEP 5 Push the local repository to company’s remote repository
 First, we need to add remote repo to local repo  
 
@@ -66,7 +72,7 @@ First, we need to add remote repo to local repo
 
 # git remote –v 	to list the connected remote repos 
 
-# git push origin master 		to push the files to remote repo 
+# git push origin master 		to push the files to remote repo of master branch
 
 It will through an error so need to authenticate so generate token in the remote repo  
 
