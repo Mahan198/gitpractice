@@ -1,7 +1,7 @@
 # gitpractice
 Learn and Do practice
 
-
+Assignment 1
 Problem Statement
 Three Developers are working in Aperture Technology co. Their company wants a better Source 
 Code Management System because the earlier tool had the tendency to save redundant code. 
@@ -15,3 +15,17 @@ Action Items
 • Merge back the created branch with the master branch
 • Create a remote repository 
 • Push the local repository to company’s remote repository
+
+Assignment 2
+
+
+
+
+
+
+
+
+
+
+
+
